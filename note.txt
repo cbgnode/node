@@ -1,0 +1,5 @@
+express 中间件
+send和next　
+send和next不能一起执行　send代表这个中间件执行完毕　next代表这个中间件执行不出结果将调给下一个中间件处理
+1：应用级中间件
+	
